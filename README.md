@@ -20,7 +20,7 @@ The 3D points on the sphere are projected onto a 2D plane using stereographic pr
 
 To recover the message, the 2D points are projected back onto the 3D sphere using the inverse stereographic projection. This reconstructs the original distribution of points. The recovered 3D points are then converted back to numerical values using the stored normalization parameters (`min_val` and `max_val`).
 
-[Please also refer to](https://github.com/ratwolfzero/Emergent-Dimension)
+[Details of Stereographic Projection](https://github.com/ratwolfzero/Emergent-Dimension)
 
 ### Decoding
 
